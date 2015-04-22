@@ -8,7 +8,7 @@ Authors@R: as.person(c(
    "International Potato Center (CIP) [cph]"
   ))
 Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: A thorough description
+Description: A thorough description.
 License: MIT + file LICENSE
 LazyData: TRUE
 URL: http://github.com/sofilibi/hallo
