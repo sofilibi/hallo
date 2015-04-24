@@ -1,5 +1,3 @@
-# Example usage of hello()
+# Example usage of 'hello'
 
-hello()
-
-hello("all") 
+hello() 

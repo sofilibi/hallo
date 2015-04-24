@@ -1,4 +1,4 @@
-#' hello
+#' good_bye
 #'
 #' A one liner.
 #' 
@@ -8,9 +8,9 @@
 #' @return character a string; default is 'Hello, world!'
 #' @author author
 #' @family example
-#' @example inst/examples/ex_hello.R
+#' @example inst/examples/ex_good_bye.R
 #' @export
-hello <- function(name = "world") {
+good_bye <- function(name = "world") {
   stopifnot(is.character(name))
   paste0("Hello, ", name, "!")
 } 

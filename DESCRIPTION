@@ -7,7 +7,6 @@ Authors@R: as.person(c(
    "Reinard Simon <r.simon@cgiar.org> [aut, cre]",
    "International Potato Center (CIP) [cph]"
   ))
-Maintainer: Who to complain to <yourfault@somewhere.net>
 Description: A thorough description.
 License: MIT + file LICENSE
 LazyData: TRUE
